@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\github\project-ontwerpen\altium\Sheet2.SchDoc
+DocumentPath=Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -52,10 +52,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KCEPQBUI
+DocumentUniqueId=YHEPUVEF
 
 [Document2]
-DocumentPath=..\..\..\github\project-ontwerpen\altium\PCB_Project_1.SCHLIB
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ULIKAYSN
+DocumentUniqueId=PVMVHBDK
 
 [Document3]
-DocumentPath=PCB_Project_1_1.SCHLIB
+DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,24 +86,67 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PGCMMMRS
+DocumentUniqueId=
 
-[Document4]
-DocumentPath=test.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project_3\Design Rule Check - PCB1.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DEKSWRCN
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_Project_3\NC Drill\PCB1-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_Project_3\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for PCB_Project_3\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PCB_Project_3\Gerber\PCB1.RUL
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1086,48 +1129,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Miscellaneous Connectors.IntLib
-ComponentDesignItemID0=Header 3
-ComponentSymbolReference0=Header 3
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Miscellaneous Connectors.IntLib
-ComponentDesignItemID1=Header 8
-ComponentSymbolReference1=Header 8
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
-ComponentDesignItemID2=Cap2
-ComponentSymbolReference2=Cap2
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Miscellaneous Devices.IntLib
-ComponentDesignItemID3=Res2
-ComponentSymbolReference3=Res2
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=PCB_Project_1.SCHLIB
-ComponentDesignItemID4=Header 8
-ComponentSymbolReference4=Header 8
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=PCB_Project_1.SCHLIB
-ComponentDesignItemID5=MAX
-ComponentSymbolReference5=MAX
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name Only
-ComponentLibraryIdentifier6=Altium Content Vault
-ComponentDesignItemID6=CMP-2000-05016-1
-ComponentSymbolReference6=CAP-NP-2
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1141,88 +1142,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Capacitance
-ParameterUpdate0=1
-ParameterName1=Case Size/Dimension
-ParameterUpdate1=1
-ParameterName2=Comment
-ParameterUpdate2=1
-ParameterName3=Component Kind
-ParameterUpdate3=1
-ParameterName4=Datasheet URL
-ParameterUpdate4=1
-ParameterName5=Datasheet Version
-ParameterUpdate5=1
-ParameterName6=Description
-ParameterUpdate6=1
-ParameterName7=Dielectric
-ParameterUpdate7=1
-ParameterName8=LatestRevisionDate
-ParameterUpdate8=1
-ParameterName9=LatestRevisionNote
-ParameterUpdate9=1
-ParameterName10=Library Reference
-ParameterUpdate10=1
-ParameterName11=Manufacturer
-ParameterUpdate11=1
-ParameterName12=Manufacturer URL
-ParameterUpdate12=1
-ParameterName13=PackageDescription
-ParameterUpdate13=1
-ParameterName14=PackageReference
-ParameterUpdate14=1
-ParameterName15=Published
-ParameterUpdate15=1
-ParameterName16=Publisher
-ParameterUpdate16=1
-ParameterName17=Rated Voltage
-ParameterUpdate17=1
-ParameterName18=Tolerance (%)
-ParameterUpdate18=1
-ParameterName19=Value
-ParameterUpdate19=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=AXIAL-0.4
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=CAPC2013X94X50LL20T25
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAPC2013X94X50ML20T25
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPC2013X94X50NL20T25
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAPR5-4X5
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=HDR1X3
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=HDR1X8
-ModelUpdate6=1
-ModelTypeGroup1=SI
-ModelTypeUpdate1=1
-ModelType7=SI
-ModelName7=Cap
-ModelUpdate7=1
-ModelType8=SI
-ModelName8=Connector
-ModelUpdate8=1
-ModelType9=SI
-ModelName9=Res
-ModelUpdate9=1
-ModelTypeGroup2=SIM
-ModelTypeUpdate2=1
-ModelType10=SIM
-ModelName10=CAP
-ModelUpdate10=1
-ModelType11=SIM
-ModelName11=RESISTOR
-ModelUpdate11=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
