@@ -1,0 +1,207 @@
+13/02/2020 10:12:13: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+13/02/2020 10:12:26: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+13/02/2020 10:12:26: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+13/02/2020 10:12:26: Error executing network check
+13/02/2020 10:12:26: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+13/02/2020 10:12:26: Error executing network check
+13/02/2020 10:12:26: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+14/02/2020 8:35:46: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+14/02/2020 8:35:57: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+14/02/2020 8:35:57: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+14/02/2020 8:35:57: Error executing network check
+14/02/2020 8:35:57: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+14/02/2020 8:35:57: Error executing network check
+14/02/2020 8:35:57: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+14/02/2020 8:37:17: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+14/02/2020 8:37:20: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+14/02/2020 8:37:20: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+14/02/2020 8:37:20: Error executing network check
+14/02/2020 8:37:20: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+14/02/2020 8:37:20: Error executing network check
+14/02/2020 8:37:20: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:32:23: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+21/02/2020 8:32:32: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+21/02/2020 8:32:32: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+21/02/2020 8:32:32: Error executing network check
+21/02/2020 8:32:32: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:32:32: Error executing network check
+21/02/2020 8:32:32: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:35:24: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+21/02/2020 8:35:26: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+21/02/2020 8:35:26: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+21/02/2020 8:35:26: Error executing network check
+21/02/2020 8:35:26: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:35:26: Error executing network check
+21/02/2020 8:35:26: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:39:33: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+21/02/2020 8:39:36: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+21/02/2020 8:39:36: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+21/02/2020 8:39:36: Error executing network check
+21/02/2020 8:39:36: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:39:36: Error executing network check
+21/02/2020 8:39:36: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:41:01: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+21/02/2020 8:41:03: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+21/02/2020 8:41:03: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+21/02/2020 8:41:03: Error executing network check
+21/02/2020 8:41:03: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+21/02/2020 8:41:03: Error executing network check
+21/02/2020 8:41:03: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+28/02/2020 8:32:17: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+28/02/2020 8:32:28: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+28/02/2020 8:32:28: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+28/02/2020 8:32:28: Error executing network check
+28/02/2020 8:32:28: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+28/02/2020 8:32:28: Error executing network check
+28/02/2020 8:32:28: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+28/02/2020 9:40:47: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+28/02/2020 9:40:50: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+28/02/2020 9:40:50: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+28/02/2020 9:40:50: Error executing network check
+28/02/2020 9:40:50: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+28/02/2020 9:40:50: Error executing network check
+28/02/2020 9:40:50: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 11:54:59: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+1/05/2020 11:55:16: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+1/05/2020 11:55:16: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+1/05/2020 11:55:16: Error executing network check
+1/05/2020 11:55:16: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 11:55:16: Error executing network check
+1/05/2020 11:55:16: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 13:13:34: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+1/05/2020 13:13:45: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+1/05/2020 13:13:45: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+1/05/2020 13:13:45: Error executing network check
+1/05/2020 13:13:45: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 13:13:45: Error executing network check
+1/05/2020 13:13:45: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 15:17:58: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+1/05/2020 15:18:04: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+1/05/2020 15:18:04: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+1/05/2020 15:18:04: Error executing network check
+1/05/2020 15:18:04: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 15:18:04: Error executing network check
+1/05/2020 15:18:04: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 15:37:03: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+1/05/2020 15:37:10: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+1/05/2020 15:37:10: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+1/05/2020 15:37:10: Error executing network check
+1/05/2020 15:37:10: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 15:37:10: Error executing network check
+1/05/2020 15:37:10: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 15:37:29: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+1/05/2020 15:37:36: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+1/05/2020 15:37:36: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+1/05/2020 15:37:36: Error executing network check
+1/05/2020 15:37:36: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+1/05/2020 15:37:36: Error executing network check
+1/05/2020 15:37:36: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+6/05/2020 16:05:40: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+6/05/2020 16:05:59: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+6/05/2020 16:05:59: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+6/05/2020 16:05:59: Error executing network check
+6/05/2020 16:05:59: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+6/05/2020 16:05:59: Error executing network check
+6/05/2020 16:05:59: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+6/05/2020 19:51:06: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+6/05/2020 19:51:10: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+6/05/2020 19:51:10: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+6/05/2020 19:51:10: Error executing network check
+6/05/2020 19:51:10: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+6/05/2020 19:51:10: Error executing network check
+6/05/2020 19:51:10: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+8/05/2020 9:45:04: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+8/05/2020 9:45:15: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+8/05/2020 9:45:15: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+8/05/2020 9:45:15: Error executing network check
+8/05/2020 9:45:15: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+8/05/2020 9:45:15: Error executing network check
+8/05/2020 9:45:15: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+9/05/2020 12:13:08: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+9/05/2020 12:13:18: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+9/05/2020 12:13:18: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+9/05/2020 12:13:18: Error executing network check
+9/05/2020 12:13:18: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+9/05/2020 12:13:18: Error executing network check
+9/05/2020 12:13:18: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+10/05/2020 13:10:58: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+10/05/2020 13:11:08: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+10/05/2020 13:11:08: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+10/05/2020 13:11:08: Error executing network check
+10/05/2020 13:11:08: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+10/05/2020 13:11:08: Error executing network check
+10/05/2020 13:11:08: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+11/05/2020 16:08:10: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+11/05/2020 16:08:22: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+11/05/2020 16:08:22: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+11/05/2020 16:08:22: Error executing network check
+11/05/2020 16:08:22: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+11/05/2020 16:08:22: Error executing network check
+11/05/2020 16:08:22: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+13/05/2020 10:39:50: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+13/05/2020 10:40:00: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+13/05/2020 10:40:00: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+13/05/2020 10:40:00: Error executing network check
+13/05/2020 10:40:00: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+13/05/2020 10:40:00: Error executing network check
+13/05/2020 10:40:00: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+14/05/2020 23:28:13: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+14/05/2020 23:28:42: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+14/05/2020 23:28:42: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+14/05/2020 23:28:42: Error executing network check
+14/05/2020 23:28:42: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+14/05/2020 23:28:42: Error executing network check
+14/05/2020 23:28:42: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+15/05/2020 11:00:04: Configuration Read from: C:\Users\WIKON\AppData\Local\Autodesk\AutoCAD 2020\R23.1\enu\Support\infocenter.xml
+15/05/2020 11:00:23: ICommunicationCenterConnector.SubAwareServiceUrl does not contain valid URL.
+ Attempting to load from registry
+15/05/2020 11:00:23: System.Runtime.InteropServices.COMException (0x80040154): Retrieving the COM class factory for component with CLSID {CEE92F99-D9C7-4E46-9AB7-E3F705B9A543} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+   at Autodesk.Private.InfoCenter.CommunicationCenter.InitCommCenter()
+15/05/2020 11:00:23: Error executing network check
+15/05/2020 11:00:23: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
+15/05/2020 11:00:23: Error executing network check
+15/05/2020 11:00:23: Retrieving the COM class factory for component with CLSID {9E928A7C-095E-4F44-81C5-D4F14F4F0265} failed due to the following error: 80040154 Klasse is niet geregistreerd (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).
