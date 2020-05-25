@@ -5,3 +5,5 @@ Link naar de presentatie https://www.youtube.com/watch?v=Ke1S_5_zJoM
 
 
 link naar video voor de footprint check https://www.youtube.com/watch?v=de2DKgfxZzA
+
+video begint op sec: 20 omdat het anders raar zou klinken met de muziek die ik er onder heb gezet.
